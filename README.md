@@ -8,10 +8,10 @@ I'm a former graphic designer looking for new opportunities.
 - Javascript 👨‍💻
 - React.js ⚛
 - Typescript 🔢
-- Cypress
-- Playwright
+- Cypress 👨🏻‍🔬
+- Playwright 🧪
 - CSS & Sass 🎨
-- Figma
+- Figma 🖌️
 - Adobe Photoshop 🖼
 
 <!--
