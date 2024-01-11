@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Damian and I'm learning frontend development.
+My name is Damian and I'm learning frontend development and automated testing.
 I'm a former graphic designer looking for new opportunities.
 
 #### My technologies
@@ -8,7 +8,10 @@ I'm a former graphic designer looking for new opportunities.
 - Javascript 👨‍💻
 - React.js ⚛
 - Typescript 🔢
+- Cypress
+- Playwright
 - CSS & Sass 🎨
+- Figma
 - Adobe Photoshop 🖼
 
 <!--
